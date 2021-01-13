@@ -6,6 +6,8 @@ This is just random text in the body
 
 If you want to **bold** text, just surround your text with double star. 
 
+If you want to *italicize* text, just surround your text with a single star. 
+
 ### This is a level 3 heading
 
 If you want to make a list: 
